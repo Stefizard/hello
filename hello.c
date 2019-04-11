@@ -2,5 +2,7 @@
 using namespace std;
 int main ()
 {
-cout<<"Hello World!";
+char s[30];
+cin>>s;
+cout<<"Hello "<<s<<"!";
 } 
